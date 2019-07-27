@@ -1,2 +1,5 @@
 print("Goodby world;")
 print("Goodby mir;")
+print("Goodby mir;")
+print("Goodby mir;")
+print("Goodby mir;")
